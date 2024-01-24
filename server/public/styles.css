@@ -9,6 +9,9 @@ body {
 
 header {
   text-align: center;
+  border: 2px;
+  background-color: rgb(205, 14, 14);
+
 }
 
 .team {
